@@ -1,0 +1,8 @@
+{
+  "conexion":{
+      "server" : "server",
+      "user" : "user",
+      "password" : "pass",
+      "database" : "DB"
+  }
+}
